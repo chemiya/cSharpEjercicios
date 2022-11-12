@@ -1,0 +1,15 @@
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\bin\Debug\net6.0\basicos2.exe
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\bin\Debug\net6.0\basicos2.deps.json
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\bin\Debug\net6.0\basicos2.runtimeconfig.json
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\bin\Debug\net6.0\basicos2.dll
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\bin\Debug\net6.0\basicos2.pdb
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\obj\Debug\net6.0\basicos2.csproj.AssemblyReference.cache
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\obj\Debug\net6.0\basicos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\obj\Debug\net6.0\basicos2.AssemblyInfoInputs.cache
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\obj\Debug\net6.0\basicos2.AssemblyInfo.cs
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\obj\Debug\net6.0\basicos2.csproj.CoreCompileInputs.cache
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\obj\Debug\net6.0\basicos2.dll
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\obj\Debug\net6.0\refint\basicos2.dll
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\obj\Debug\net6.0\basicos2.pdb
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\obj\Debug\net6.0\basicos2.genruntimeconfig.cache
+C:\Users\chema\Desktop\formacionPracticar\proyectosCsharp\basicos2\obj\Debug\net6.0\ref\basicos2.dll
